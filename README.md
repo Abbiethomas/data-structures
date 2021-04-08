@@ -1,2 +1,2 @@
-# data-structures-array
-Student and Instructor Login based on array implementation
+# data-structures
+Collection of Data Structure projects written in C++
