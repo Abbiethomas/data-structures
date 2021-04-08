@@ -1,0 +1,16 @@
+Thomas_assignment5:
+total 292
+-rw-r--r--. 1 myid  6012 Oct 29 23:30 BinaryTree.cpp
+-rw-r--r--. 1 myid  1235 Oct 29 23:24 BinaryTree.h
+-rw-r--r--. 1 myid 51208 Oct 29 23:30 BinaryTree.o
+-rw-r--r--. 1 myid    29 Oct 28 22:20 input.txt
+-rw-r--r--. 1 myid   853 Oct 26 14:04 ItemType.cpp
+-rw-r--r--. 1 myid   302 Oct 26 14:04 ItemType.h
+-rw-r--r--. 1 myid 34552 Oct 28 19:49 ItemType.o
+-rwxr-xr-x. 1 myid 90520 Oct 29 23:30 main
+-rw-r--r--. 1 myid  2574 Oct 29 21:52 main.cpp
+-rw-r--r--. 1 myid 77264 Oct 29 23:24 main.o
+-rw-r--r--. 1 myid   362 Oct 28 19:50 Makefile
+-rw-r--r--. 1 myid  1903 Oct 29 23:18 Readme.txt
+-rw-r--r--. 1 myid     0 Oct 29 23:38 rec24396
+/home/myid/agt96353/Thomas_assignment5:/home/myid/csci-2720c

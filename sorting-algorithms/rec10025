@@ -1,0 +1,18 @@
+Thomas_assignment6:
+total 416
+-rw-r--r--. 1 myid   854 Nov 14 16:24 ItemType.cpp
+-rw-r--r--. 1 myid   302 Nov 14 19:24 ItemType.h
+-rw-r--r--. 1 myid 34552 Nov 14 19:24 ItemType.o
+-rwxr-xr-x. 1 myid 82752 Nov 15 21:20 main
+-rw-r--r--. 1 myid  2483 Nov 15 21:18 main.cpp
+-rw-r--r--. 1 myid 74912 Nov 15 21:19 main.o
+-rw-r--r--. 1 myid   341 Nov 14 19:23 Makefile
+-rw-r--r--. 1 myid 48890 Nov 14 16:15 ordered.txt
+-rw-r--r--. 1 myid 48890 Nov 14 16:16 random.txt
+-rw-r--r--. 1 myid   192 Nov 15 19:28 Readme.txt
+-rw-r--r--. 1 myid     0 Nov 15 21:45 rec10025
+-rw-r--r--. 1 myid 48890 Nov 14 16:16 reverse.txt
+-rw-r--r--. 1 myid  5079 Nov 15 21:20 Sorting.cpp
+-rw-r--r--. 1 myid   731 Nov 15 21:18 Sorting.h
+-rw-r--r--. 1 myid 42040 Nov 15 21:20 Sorting.o
+/home/myid/agt96353/Thomas_assignment6:/home/myid/csci-2720c

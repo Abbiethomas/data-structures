@@ -1,0 +1,7 @@
+Customer1 arrival 12 service 54 
+Customer2 arrival 34 service 41 
+Customer3 arrival 81 service 32 
+Customer4 arrival 201 service 35
+Customer5 arrival 234 service 112
+Customer6 arrival 432 service 57
+Customer7 arrival 501 service 38 

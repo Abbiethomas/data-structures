@@ -1,0 +1,16 @@
+Thomas_assignment3:
+total 212
+-rw-r--r--. 1 myid   121 Oct  2 16:55 Customer.h
+-rw-r--r--. 1 myid   132 Oct  5 16:29 input1.txt
+-rw-r--r--. 1 myid   233 Oct  5 16:29 input2.txt
+-rw-r--r--. 1 myid  5533 Oct  5 16:40 input3.txt
+-rwxr-xr-x. 1 myid 62824 Oct  5 18:07 main
+-rw-r--r--. 1 myid  1575 Oct  5 18:02 main.cpp
+-rw-r--r--. 1 myid 69856 Oct  5 18:02 main.o
+-rw-r--r--. 1 myid   218 Oct  5 16:06 Makefile
+-rw-r--r--. 1 myid  1199 Oct  5 18:05 Queue.cpp
+-rw-r--r--. 1 myid   340 Oct  5 17:51 Queue.h
+-rw-r--r--. 1 myid 33432 Oct  5 18:07 Queue.o
+-rw-r--r--. 1 myid   118 Oct  2 17:27 Readme.txt
+-rw-r--r--. 1 myid     0 Oct  5 18:09 rec20503
+/home/myid/agt96353/Thomas_assignment3:/home/myid/csci-2720c

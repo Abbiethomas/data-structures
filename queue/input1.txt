@@ -1,0 +1,4 @@
+Customer1 arrival 25 service 70 
+Customer2 arrival 40 service 40 
+Customer3 arrival 60 service 124 
+Customer4 arrival 75 service 32
