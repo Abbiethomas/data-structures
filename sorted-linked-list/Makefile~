@@ -1,0 +1,8 @@
+ItemType.o: ItemType.cpp ItemType.h
+	g++ -Wall -g -std=c++11 -c ItemType.cpp
+SortedLinkedList.o: SortedLinkedList.cpp SortedLinkedList.h
+	g++ -Wall -g -std=c++11 -c SortedLinkedList.cpp
+main.o: main.cpp SortedLinkedList.h ItemType.h
+	g++ -Wall -g -std=c++11 -c main.cpp
+main: main.o SortedLinkedList.o ItemType.o
+	g++ main.o SortedLinkedList.o ItemType.o -o main

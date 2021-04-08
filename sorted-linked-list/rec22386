@@ -1,0 +1,24 @@
+Thomas_assignment2:
+total 292
+-rw-r--r--. 1 myid     3 Sep 25 21:32 #empty.txt#
+-rw-r--r--. 1 myid     2 Sep 25 18:54 empty.txt
+-rw-r--r--. 1 myid    26 Sep 25 18:54 input.txt
+-rw-r--r--. 1 myid   473 Sep 23 18:15 ItemType.cpp
+-rw-r--r--. 1 myid   278 Sep 23 18:15 ItemType.h
+-rw-r--r--. 1 myid  4664 Sep 23 18:15 ItemType.o
+-rw-r--r--. 1 myid   145 Sep 25 13:08 ListNode.h
+-rwxr-xr-x. 1 myid 78488 Sep 25 23:54 main
+-rw-r--r--. 1 myid  3678 Sep 25 23:12 main.cpp
+-rw-r--r--. 1 myid  3671 Sep 25 23:12 main.cpp~
+-rw-r--r--. 1 myid 82256 Sep 25 23:12 main.o
+-rw-r--r--. 1 myid   393 Sep 25 20:50 Makefile
+-rw-r--r--. 1 myid   363 Sep 25 18:45 Makefile~
+-rw-r--r--. 1 myid  1947 Sep 25 22:23 Readme.txt
+-rw-r--r--. 1 myid    23 Sep 23 17:00 Readme.txt~
+-rw-r--r--. 1 myid     0 Sep 25 23:58 rec22386
+-rw-r--r--. 1 myid  6506 Sep 25 23:54 SortedLinkedList.cpp
+-rw-r--r--. 1 myid  6500 Sep 25 23:51 SortedLinkedList.cpp~
+-rw-r--r--. 1 myid   697 Sep 25 20:12 SortedLinkedList.h
+-rw-r--r--. 1 myid   710 Sep 25 20:07 SortedLinkedList.h~
+-rw-r--r--. 1 myid 47320 Sep 25 23:54 SortedLinkedList.o
+/home/myid/agt96353/Thomas_assignment2:/home/myid/csci-2720c
